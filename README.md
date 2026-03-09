@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Lehlohonolo Mona
 
-💻 Full Stack Developer | 🌱 Smart Farming Innovator | ☁️ Cloud & Data Enthusiast
+💻 Full Stack Developer | AI/ML Enthusiast | ☁️ Cloud & Data Enthusiast
 
 I am a software developer with experience building modern web applications using **Vue.js, Laravel, and TailwindCSS**.  
 I enjoy solving real-world problems through technology, especially in **agriculture, automation, and data-driven systems**.
