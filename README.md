@@ -46,7 +46,7 @@ Currently expanding my knowledge in **AWS Cloud, Data Science, and Machine Learn
 
 ---
 
-### 🤖 WhatsApp Ordering Chatbot
+### 🤖 WhatsApp Ordering Chatbot (Currently In Progress)
 A chatbot system that allows customers to order food via WhatsApp.
 
 **Tech Stack**
