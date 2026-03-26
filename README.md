@@ -13,6 +13,7 @@ Currently expanding my knowledge in **AWS Cloud and Python for Data**.
 
 ### Frontend
 - Vue.js (Options API)
+- AngularJs
 - Nuxt 4
 - JavaScript (ES6+)
 - TailwindCSS
@@ -32,10 +33,11 @@ Currently expanding my knowledge in **AWS Cloud and Python for Data**.
 - AWS (Cloud Practitioner)
 - Git & GitHub
 - Linux
-- Docker 
+- Docker
+- GitHub Actions
 
 ### Data & AI
-- Python (Numpy, Pandas, Scikit-Learn)
+- Python (Numpy, Pandas, Matplotlib, Scikit-Learn)
 - FastAPI
 - SQL
 
@@ -63,7 +65,6 @@ Designed with scalability, performance, and clean architecture in mind
 - Machine Learning
 - AI APIs with FastAPI
 - Scalable SaaS system design
-- 
 ---
 
 ## 📫 Connect With Me
