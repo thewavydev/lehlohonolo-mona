@@ -5,7 +5,7 @@
 I am a software developer with experience building modern web applications using **Vue.js, Laravel, and TailwindCSS**.  
 I enjoy solving real-world problems through technology, especially in **agriculture, automation, and data-driven systems**.
 
-Currently expanding my knowledge in **AWS Cloud, Data Science, and Machine Learning**.
+Currently expanding my knowledge in **AWS Cloud and Python for Data**.
 
 ---
 
