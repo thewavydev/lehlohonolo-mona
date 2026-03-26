@@ -38,38 +38,22 @@ Currently expanding my knowledge in **AWS Cloud, Data Science, and Machine Learn
 - Python (Numpy, Pandas, Scikit-Learn)
 - FastAPI
 - SQL
-- Machine Learning (beginner)
 
----
 
 ## 📌 Featured Projects
 
----
+📊 School Based Management System (Laravel)
 
-### 🤖 WhatsApp Ordering Chatbot (Currently In Progress)
-A chatbot system that allows customers to order food via WhatsApp.
+A School Based Management System built with Laravel that generates dynamic reports from multiple database tables using Eloquent relationships. The system allows schools to capture learner data and marks, perform moderation, and import bulk learners and results. It also leverages stored procedures for handling complex and performance-intensive queries.
 
-**Tech Stack**
-- Laravel
-- Vue.js
-- WhatsApp API
-- PayFast Integration
-
-Features:
-- Automated ordering
-- Payment integration
-- Business dashboard
-
----
-
-### 📊 Dynamic Report Generator (Laravel)
-A system that generates reports dynamically from multiple database tables using Eloquent relationships.
-
-Features:
-- Dynamic table selection
-- Column filtering
-- Export to PDF / Excel
-- Optimized queries with chunking
+🚀 Features
+Build dynamic reports using multiple related tables (Learners, Subjects, Marks, Institutions)
+Use Eloquent relationships to simplify joins and improve data access
+Apply stored procedures for complex and high-performance database queries
+Implement a service layer (ReportService) to manage reporting logic
+Support filters, selected columns, and large datasets
+Enable bulk import of learners and marks for schools
+Designed with scalability, performance, and clean architecture in mind
 
 ---
 
@@ -79,23 +63,12 @@ Features:
 - Machine Learning
 - AI APIs with FastAPI
 - Scalable SaaS system design
-
----
-
-## 🌱 Interests
-
-- Smart Agriculture Technology
-- SaaS Startups
-- AI + Automation
-- Data-driven decision systems
-
----
-
+- 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add your LinkedIn)
+- LinkedIn: www.linkedin.com/in/lehlohonolo-mona-74832b18a
 - Email: lehlohonolomona23@gmail.com
 
 ---
