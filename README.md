@@ -26,8 +26,8 @@ Currently expanding my knowledge in **AWS Cloud and Python for Data**.
 - Python
 
 ### Databases
-- MySQL
-- PostgreSQL
+- MySQL - (MySQL Workbench)
+- PostgreSQL - (PgAdmin)
 
 ### Cloud & DevOps
 - AWS (Cloud Practitioner)
