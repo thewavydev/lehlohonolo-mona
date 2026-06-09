@@ -44,7 +44,17 @@ Currently expanding my knowledge in **AWS Cloud and Python for Data**.
 
 ## 📌 Featured Projects
 
-https://github.com/thewavydev
+ lehlohonolomona-fullstack-developer (https://github.com/thewavydev/lehlohonolomona-fullstack-developer)
+ - A responsive and modern portfolio website built using Vue.js 3 and styled with Tailwind CSS. Hosted on Vercel for seamless deployment and fast performance.
+
+ leave-management-system (https://github.com/thewavydev/leave-management-system)
+ - A Laravel-based leave management application that allows employees to request time off and managers to approve or reject leave requests.
+
+php-laravel-task-management-system (https://github.com/thewavydev/php-laravel-task-management-system)
+ - Laravel-based multi-tenant task management system with Blade and Tailwind CSS. Implements Sanctum authentication, tenant isolation, and scalable MySQL database design.
+
+github-action-demo (https://github.com/thewavydev/github-action-demo)
+- A hands-on project demonstrating the practical use of GitHub Actions for CI/CD, including automated testing, code quality checks, and seamless deployment pipelines.
 
 📊 School Based Management System (Laravel)
 
