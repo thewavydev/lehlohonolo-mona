@@ -3,7 +3,7 @@
 💻 Full Stack Developer | ☁️ Cloud & Data Enthusiast
 
 I am a software developer with experience building modern web applications using **Vue.js, Laravel, and TailwindCSS**.  
-I enjoy solving real-world problems through technology, especially in **agriculture, automation, and data-driven systems**.
+I enjoy solving real-world problems through technology.
 
 Currently expanding my knowledge in **AWS Cloud and Python for Data**.
 
@@ -12,7 +12,7 @@ Currently expanding my knowledge in **AWS Cloud and Python for Data**.
 ## 🚀 Tech Stack
 
 ### Frontend
-- Vue.js (Options API)
+- Vue.js 3
 - AngularJs
 - Nuxt 4
 - JavaScript (ES6+)
