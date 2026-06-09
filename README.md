@@ -44,6 +44,8 @@ Currently expanding my knowledge in **AWS Cloud and Python for Data**.
 
 ## 📌 Featured Projects
 
+https://github.com/thewavydev
+
 📊 School Based Management System (Laravel)
 
 A School Based Management System built with Laravel that generates dynamic reports from multiple database tables using Eloquent relationships. The system allows schools to capture learner data and marks, perform moderation, and import bulk learners and results. It also leverages stored procedures for handling complex and performance-intensive queries.
