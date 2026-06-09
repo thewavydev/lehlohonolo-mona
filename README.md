@@ -74,7 +74,6 @@ Designed with scalability, performance, and clean architecture in mind
 ## 📚 Currently Learning
 
 - AWS Cloud & Architecture
-- Machine Learning
 - AI APIs with FastAPI
 - Scalable SaaS system design
 ---
